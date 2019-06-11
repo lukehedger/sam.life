@@ -1,0 +1,3 @@
+```
+sam + life = sam.life
+```
